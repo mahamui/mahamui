@@ -1,15 +1,19 @@
 <h1 align="center">Hi, I'm Maham</h1>
-<h3 align="center">iOS & Mobile App Developer | Swift, SwiftUI, Flutter, Unity</h3>
 
 <p align="center">
-  <a href="https://mahamdev.tech"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=iOS+%26+Mobile+App+Developer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <i>Building polished iOS apps and mobile games — 40+ apps shipped to the App Store</i>
+</p>
+
+<p align="center">
+  <a href="mailto:waduhamahaam@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/wad-duhaa-maham-6884623a9"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
-
-Indie iOS and mobile app developer with 40+ apps published on the Apple App Store. Focused on building polished, production-ready apps and games — working across native iOS development and cross-platform tools.
 
 ### Languages & Tools
 
